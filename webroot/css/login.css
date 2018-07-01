@@ -1,0 +1,30 @@
+body {
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.login{ 
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.login__heading {
+    margin-bottom: 10px;
+}
+
+.login__email,
+.login__password {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.login__email {
+    margin-bottom: -1px;
+}
+
+.login__password {
+    margin-bottom: 10px;
+}

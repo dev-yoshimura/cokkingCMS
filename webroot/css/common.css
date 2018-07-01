@@ -1,0 +1,8 @@
+.page-header {
+    border-bottom: 2px solid #6cb4e4;
+    margin-top: 10px;
+}
+
+.error-message {
+    color: red;
+}
