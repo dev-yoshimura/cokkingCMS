@@ -24,7 +24,7 @@ class ConvertComponent extends Component
 
         // 【参考】http://www.imuza.com/entry/2016/02/19/194719
         $api = 'http://jlp.yahooapis.jp/FuriganaService/V1/furigana';
-        $appid = 'dj00aiZpPXBBSHdGMW4zNUo0NCZzPWNvbnN1bWVyc2VjcmV0Jng9ZmQ-';
+        $appid = '';
 
         $params = array(
             'sentence' => $sentence,
